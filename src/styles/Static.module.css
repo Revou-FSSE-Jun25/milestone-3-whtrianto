@@ -1,0 +1,67 @@
+.container { max-width: 960px; margin: 0 auto; padding: 24px; }
+.list { margin: 12px 0; padding-left: 20px; }
+.list li { margin: 8px 0; color: var(--muted); }
+
+/* Kartu sederhana untuk item list pada halaman admin/cart */
+.card { display: flex; align-items: center; padding: 12px; border: 1px solid #eee; border-radius: 8px; margin: 8px 0; background: #fff; color: #111; }
+.cartItem { gap: 12px; align-items: center; grid-template-columns: auto 1fr auto auto; }
+.cartItem { color: #111; }
+.itemThumb img { width: 56px; height: 56px; object-fit: contain; border-radius: 8px; background: #fafafa; padding: 6px; border: 1px solid #f0f0f0; }
+.itemInfo { display: flex; flex-direction: column; gap: 4px; }
+.itemTitle { font-weight: 600; color: #111; }
+.itemMeta { color: #374151; font-size: 14px; }
+.itemActions { display: flex; align-items: center; gap: 8px; margin-left: auto; }
+.itemSubtotal { min-width: 120px; text-align: right; font-weight: 600; }
+
+/* Tombol utama sederhana */
+.button { background: #111; color: #fff; padding: 8px 14px; border-radius: 6px; text-decoration: none; display: inline-block; }
+
+/* Kelompok kontrol kuantitas */
+.qtyGroup { display: inline-flex; align-items: center; gap: 8px; background: #f6f6f6; border-radius: 999px; padding: 4px 8px; }
+.qtyBtn { width: 28px; height: 28px; border-radius: 50%; background: #fff; border: 1px solid #ddd; cursor: pointer; }
+.qtyBtn:hover { background: #f0f0f0; }
+.qtyValue { min-width: 20px; text-align: center; font-weight: 600; }
+
+/* Tombol hapus bergaya berbahaya */
+.dangerBtn { background: #e11d48; color: #fff; border: none; padding: 8px 12px; border-radius: 6px; cursor: pointer; }
+.dangerBtn:hover { background: #be123c; }
+
+/* Ringkasan keranjang */
+.summaryBox { margin-top: 16px; border: 1px solid #eee; border-radius: 12px; padding: 16px; background: #fff; box-shadow: 0 8px 20px rgba(0,0,0,0.04); display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.summaryRow { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; color: #6b7280; }
+.summaryTotal { color: #111; font-size: 22px; font-weight: 700; }
+
+/* Checkout button tuned for summary card */
+.checkoutBtn { display: inline-flex; align-items: center; justify-content: center; min-width: 180px; padding: 12px 16px; border-radius: 8px; }
+
+/* Auth page styles */
+.authWrap { display: grid; place-items: center; min-height: 60vh; }
+.authCard { width: 100%; max-width: 420px; background: #fff; border: 1px solid #eee; border-radius: 12px; padding: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.06); }
+.authHeader { text-align: center; margin-bottom: 16px; }
+.authTitle { margin: 0; font-size: 24px; }
+.authSubtitle { margin: 4px 0 0; color: #6b7280; }
+.label { display: block; font-weight: 500; margin-top: 12px; }
+.input { width: 100%; margin-top: 6px; padding: 10px 12px; border: 1px solid #e5e7eb; border-radius: 8px; outline: none; }
+.input:focus { border-color: #111; box-shadow: 0 0 0 3px rgba(17,17,17,.1); }
+.primaryBtn { width: 100%; margin-top: 16px; background: #111; color: #fff; border: none; padding: 10px 14px; border-radius: 8px; cursor: pointer; }
+.primaryBtn:hover { background: #000; }
+.helperText { text-align: center; color: #6b7280; margin-top: 8px; }
+
+/* Admin form styling */
+.adminWrap { display: grid; place-items: center; }
+.adminCard { width: 100%; max-width: 760px; background: #fff; border: 1px solid #eee; border-radius: 12px; padding: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.06); }
+.adminTitle { margin: 0; font-size: 22px; }
+.adminSubtitle { margin: 4px 0 16px; color: #6b7280; }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.fullRow { grid-column: 1 / -1; }
+.previewBox { margin-top: 12px; border: 1px dashed #e5e7eb; border-radius: 8px; padding: 12px; display: grid; place-items: center; background: #fafafa; }
+.previewBox img { max-height: 200px; object-fit: contain; }
+.actionsRow { display: flex; justify-content: flex-end; margin-top: 16px; gap: 8px; }
+
+/* Admin buttons (consistent sizing) */
+.adminBtn { background: #111; color: #fff; border: none; padding: 10px 14px; border-radius: 8px; cursor: pointer; }
+.adminBtn:hover { background: #000; }
+.adminBtnSecondary { background: #fff; color: #111; border: 1px solid #e5e7eb; padding: 10px 14px; border-radius: 8px; cursor: pointer; }
+.adminBtnSecondary:hover { background: #f9fafb; }
+
+

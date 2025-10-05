@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "name": "Administrator",
+    "email": "admin@gmail.com",
+    "role": "admin",
+    "passwordHash": "$2b$10$YcgHUlbHt0e5grC3lgW1peKRtTFz0D2bqhPbzTL5l31f93W0sjXNK"
+  },
+  {
+    "id": 2,
+    "username": "wahyu",
+    "name": "wahyu",
+    "email": "wahyutri1771@gmail.com",
+    "role": "user",
+    "passwordHash": "$2b$10$zwwbGj3.KuWe4Xq76Iky4efHlZuHyV/BS2/ewypgHnZRuD8TeanJW"
+  },
+  {
+    "id": 3,
+    "username": "user",
+    "name": "user",
+    "email": "user@gmail.com",
+    "role": "user",
+    "passwordHash": "$2b$10$3ruuIeZ61v2gOjkEjF9GBO4IpUwzaQvL/WRMU051EieBVo4oTjk3m"
+  }
+]

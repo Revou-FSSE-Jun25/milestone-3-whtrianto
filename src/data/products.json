@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "title": "Tas Laptop",
+    "price": 45.16129032258065,
+    "description": "Tas premium berkwalitas tinggi dengan bahan pilihan dan desaind elegan",
+    "category": "pria",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Kaos Pria Premium Slim Fit T-Shirts ",
+    "price": 22.258064516129032,
+    "description": "Model pas badan, lengan panjang raglan kontras, kancing henley tiga kancing, bahan ringan & lembut untuk sirkulasi udara dan kenyamanan. Kemeja dengan jahitan solid dan kerah bulat ini dirancang untuk daya tahan dan sangat pas untuk gaya kasual dan penggemar berat bisbol. Kerah bulat bergaya Henley dilengkapi kancing tiga kancing.",
+    "category": "pria",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Jaket Pria Katun",
+    "price": 55.935483870967744,
+    "description": "Jaket luar yang bagus untuk musim Semi/Gugur/Dingin, cocok untuk berbagai acara, seperti bekerja, mendaki, berkemah, panjat tebing, bersepeda, bepergian, atau kegiatan luar ruangan lainnya. Pilihan hadiah yang tepat untuk Anda atau anggota keluarga. Sebuah ungkapan kasih sayang yang hangat untuk Ayah, suami, atau putra di Hari Thanksgiving atau Natal ini.",
+    "category": "pria",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Kaos Pria Slim Fit",
+    "price": 15.99,
+    "description": "Warnanya mungkin sedikit berbeda antara di layar dan dalam praktik. / Harap perhatikan bahwa bentuk tubuh setiap orang berbeda-beda, oleh karena itu, informasi ukuran terperinci harus ditinjau di bawah pada deskripsi produk.",
+    "category": "pria",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "Gelang Wanita Dragon Silver",
+    "price": 694.9677419354839,
+    "description": "Dari Koleksi Legenda kami, Naga terinspirasi oleh naga air mistis yang melindungi mutiara laut. Kenakan dengan menghadap ke dalam untuk mendapatkan cinta dan kelimpahan, atau menghadap ke luar untuk perlindungan.",
+    "category": "perhiasan",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "description": "Kepuasan Terjamin. Kembalikan atau tukar pesanan apa pun dalam 30 hari. Dirancang dan dijual oleh Hafeez Center di Amerika Serikat. Kepuasan Terjamin. Kembalikan atau tukar pesanan apa pun dalam 30 hari.",
+    "category": "perhiasan",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Cincin Janji Berlian Solitaire Pertunangan Pernikahan Klasik untuknya. Hadiah untuk memanjakan cinta Anda lebih banyak lagi di acara Pertunangan, Pernikahan, Ulang Tahun Pernikahan, Hari Valentine...",
+    "category": "perhiasan",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "description": "Anting Terowongan Berlapis Emas Mawar Berlapis Ganda. Terbuat dari Baja Tahan Karat 316L",
+    "category": "perhiasan",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  },
+  {
+    "id": 9,
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 64,
+    "description": "Kompatibilitas USB 3.0 dan USB 2.0 Transfer data cepat Meningkatkan Performa PC Kapasitas Tinggi; Kompatibilitas Format NTFS untuk Windows 10, Windows 8.1, Windows 7; Pemformatan ulang mungkin diperlukan untuk sistem operasi lain; Kompatibilitas dapat bervariasi tergantung pada konfigurasi perangkat keras dan sistem operasi pengguna",
+    "category": "elektronik",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "description": "Peningkatan yang mudah untuk boot up, shutdown, pemuatan aplikasi, dan respons yang lebih cepat (Dibandingkan dengan hard drive SATA 2,5” 5400 RPM; Berdasarkan spesifikasi yang dipublikasikan dan uji pembandingan internal menggunakan skor PCMark vantage) Meningkatkan kinerja penulisan burst, sehingga ideal untuk beban kerja PC pada umumnya Keseimbangan sempurna antara kinerja dan keandalan Kecepatan baca/tulis hingga 535MB/dtk/450MB/dtk (Berdasarkan pengujian internal; Kinerja dapat bervariasi tergantung pada kapasitas drive, perangkat host, OS, dan aplikasi.)",
+    "category": "elektronik",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "description": "Flash NAND 3D diterapkan untuk menghadirkan kecepatan transfer tinggi. Kecepatan transfer luar biasa yang memungkinkan booting lebih cepat dan peningkatan kinerja sistem secara keseluruhan. Teknologi SLC Cache yang canggih memungkinkan peningkatan kinerja dan masa pakai yang lebih lama. Desain ramping 7mm cocok untuk Ultrabook dan notebook ultra-tipis. Mendukung perintah TRIM, teknologi Garbage Collection, RAID, dan ECC (Error Checking & Correction) untuk memberikan kinerja optimal dan keandalan yang lebih baik.",
+    "category": "elektronik",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 12,
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 114,
+    "description": "Perluas pengalaman bermain game PS4 Anda, Mainkan di mana saja Cepat dan mudah, pengaturan Desain ramping dengan kapasitas tinggi, garansi terbatas produsen 3 tahun",
+    "category": "elektronik",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 13,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "description": "Layar IPS layar lebar Full HD (1920 x 1080) 21,5 inci dan teknologi Radeon Free Sync. Tidak kompatibel dengan dudukan VESA. Kecepatan Refresh: 75Hz - Menggunakan port HDMI. Desain zero-frame | ultra-tipis | waktu respons 4ms | Panel IPS. Rasio aspek: 16:9. Warna yang Didukung: 16,7 juta warna. Kecerahan: 250 nit. Sudut kemiringan: 5 derajat hingga 15 derajat. Sudut pandang horizontal: 178 derajat. Sudut pandang vertikal: 178 derajat, 75 hertz.",
+    "category": "elektronik",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  },
+  {
+    "id": 14,
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 999.99,
+    "description": "MONITOR GAMING LENGKUNG SUPER ULTRAWIDE 32:9 49 INCI dengan layar ganda 27 inci berdampingan TEKNOLOGI QUANTUM DOT (QLED), dukungan HDR dan kalibrasi pabrik memberikan warna dan kontras yang sangat realistis dan akurat 144HZ HIGH REFRESH RATE dan waktu respons sangat cepat 1ms bekerja untuk menghilangkan keburaman gerakan, ghosting, dan mengurangi input lag",
+    "category": "elektronik",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 15,
+    "title": "Jaket Snowboard Wanita 3-in-1 BIYLACLESEN untuk Musim Dingin",
+    "price": 56.99,
+    "description": "Catatan: Jaket ini berukuran standar AS, Silakan pilih ukuran sesuai dengan pakaian Anda yang biasa. Bahan: 100% Polyester; Kain Pelapis yang Dapat Dilepas: Bulu Hangat. Pelapis Fungsional yang Dapat Dilepas: Ramah Kulit, Ringan dan Hangat. Jaket Pelapis Kerah Tegak, membuat Anda tetap hangat dalam cuaca dingin. Kantong Ritsleting: 2 Kantong Tangan Beritsleting, 2 Kantong Ritsleting di Dada (cukup untuk menyimpan kartu atau kunci) dan 1 Kantong Tersembunyi di Dalam. Kantong Tangan Beritsleting dan Kantong Tersembunyi menjaga barang-barang Anda tetap aman. Desain Humanis: Tudung yang Dapat Disesuaikan dan Dilepas dan manset yang Dapat Disesuaikan untuk mencegah angin dan air, untuk kenyamanan. Desain 3 in 1 yang Dapat Dilepas memberikan lebih banyak kenyamanan, Anda dapat memisahkan mantel dan bagian dalam sesuai kebutuhan, atau memakainya bersama-sama. Cocok untuk musim yang berbeda dan membantu Anda beradaptasi dengan iklim yang berbeda.",
+    "category": "wanita",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  },
+  {
+    "id": 16,
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 29.95,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
+  },
+  {
+    "id": 17,
+    "title": "Jaket Hujan Wanita Windbreaker Jas Hujan Bergaris untuk Mendaki",
+    "price": 39.99,
+    "description": "Ringan, sempurna untuk bepergian atau kasual---Lengan panjang dengan tudung dan desain pinggang serut yang dapat disesuaikan. Jas hujan dengan kancing dan ritsleting di bagian depan, bergaris penuh, dan 2 saku samping. Jas hujan ini berukuran pas untuk menyimpan berbagai barang, menutupi pinggul, dan tudungnya lebar namun tidak berlebihan. Tudung berlapis katun dengan tali serut yang dapat disesuaikan memberikan tampilan yang sangat bergaya.",
+    "category": "wanita",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 18,
+    "title": "MBJ Wanita Lengan Pendek Polos Leher Perahu V",
+    "price": 9.85,
+    "description": "95% RAYON 5% SPANDEX, Buatan AS atau Impor, Jangan Gunakan Pemutih, Kain ringan dengan elastisitas tinggi untuk kenyamanan, Bergaris di lengan dan garis leher / Jahitan ganda di ujung bawah",
+    "category": "wanita",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  },
+  {
+    "id": 19,
+    "title": "Opna Wanita Lengan Pendek Moisture",
+    "price": 7.95,
+    "description": "100% Polyester, Cuci dengan mesin, 100% interlock poliester kationik, Cuci dengan mesin & Pra-susut untuk Kesesuaian yang Sempurna, Ringan, longgar dan sangat bernapas dengan kain yang menyerap kelembapan yang membantu menjaga kelembapan, Kain Ringan Lembut dengan kerah V-neck yang nyaman dan potongan yang lebih ramping, memberikan siluet yang ramping dan lebih feminin dan Kenyamanan Tambahan",
+    "category": "wanita",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    }
+  },
+  {
+    "id": 20,
+    "title": "DANVOUY Kaos Wanita Kasual Katun Pendek",
+    "price": 12.99,
+    "description": "95% Katun, 5% Spandex, Fitur: Kasual, Lengan Pendek, Motif Huruf, V-Neck, Kaos Fashion, Kainnya lembut dan sedikit elastis., Kesempatan: Kasual/Kantor/Pantai/Sekolah/Rumah/Jalan. Musim: Semi, Panas, Gugur, Dingin.",
+    "category": "wanita",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  },
+  {
+    "title": "Dompet Pria",
+    "price": 3.870967741935484,
+    "description": "Dompet Pria dengan bahan berkwalitas tinggi",
+    "image": "https://houseofsmith.co.id/wp-content/uploads/2023/11/Wallford-Nappa-Brown-2-a-1.jpg",
+    "category": "pria",
+    "id": 21
+  }
+]
