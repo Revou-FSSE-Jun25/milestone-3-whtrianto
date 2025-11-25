@@ -25,6 +25,12 @@ RevoShop is a modern, full-featured e-commerce platform built with Next.js 14, T
 ### Delete Product
 ![Home Page](https://raw.githubusercontent.com/Revou-FSSE-Jun25/milestone-3-whtrianto/main/public/7.png)
 
+### Cart
+![Home Page](https://raw.githubusercontent.com/Revou-FSSE-Jun25/milestone-3-whtrianto/main/public/8.png)
+
+### Checkout
+![Home Page](https://raw.githubusercontent.com/Revou-FSSE-Jun25/milestone-3-whtrianto/main/public/9.png)
+
 ## 🚀 Features
 
 ### Core Features
@@ -284,17 +290,6 @@ The application can be deployed to any platform that supports Next.js:
 - **Route Protection** - Middleware-based access control
 - **Input Validation** - Zod schema validation
 - **CSRF Protection** - Built-in Next.js protection
-
-## 📈 Future Enhancements
-
-- [ ] Database integration (Prisma + PostgreSQL)
-- [ ] Payment processing (Stripe integration)
-- [ ] Email notifications
-- [ ] Advanced search and filtering
-- [ ] User reviews and ratings
-- [ ] Inventory management
-- [ ] Analytics dashboard
-- [ ] Multi-language support
 
 ## 🤝 Contributing
 
