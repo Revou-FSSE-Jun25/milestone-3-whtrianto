@@ -17,6 +17,9 @@ RevoShop is a modern, full-featured e-commerce platform built with Next.js 14, T
 ### Home Page
 ![Home Page](https://raw.githubusercontent.com/Revou-FSSE-Jun25/milestone-3-whtrianto/main/public/1.png)
 
+### FAQ Page
+![Home Page](https://raw.githubusercontent.com/Revou-FSSE-Jun25/milestone-3-whtrianto/main/public/10.png)
+
 ### Product Detail
 ![Home Page](https://raw.githubusercontent.com/Revou-FSSE-Jun25/milestone-3-whtrianto/main/public/2.png)
 
