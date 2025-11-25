@@ -2,6 +2,16 @@
 
 RevoShop is a modern, full-featured e-commerce platform built with Next.js 14, TypeScript, and Tailwind CSS. It demonstrates advanced Next.js features including SSG, SSR, ISR, authentication, and comprehensive testing.
 
+## ✅ Update Summary (26 Nov 2025)
+
+- Added a statically generated `FAQ` page (`src/app/faq/page.tsx`) to satisfy the SSG requirement (Module 4).
+- Hardened authentication: NextAuth now carries user roles, middleware guards `/admin`, and navbar links react to `admin` vs `user`.
+- Product APIs (`GET/POST/PUT/DELETE`) enforce server-side validation plus role-based protection and trigger ISR revalidation.
+- Product listing/detail pages declare `revalidate = 900` so ISR is demonstrable; mutations call `revalidatePath('/products')` and `/admin`.
+- Added lightweight auth unit tests (`src/tests/authUtils.test.ts`) and ensured Jest aliasing works (`moduleNameMapper` fix).
+- Dev fallback for `NEXTAUTH_SECRET` prevents local boot errors; README now documents required env vars.
+
+
 ## Demo Screenshots
 
 ### Home Page
@@ -116,7 +126,16 @@ src/
    pnpm install
    ```
 
-3. **Run the development server**
+3. **Environment variables**
+
+   Create an `.env.local` file (or set system variables) with:
+
+   ```bash
+   NEXTAUTH_SECRET=replace-with-long-random-string
+   NEXTAUTH_URL=http://localhost:3000
+   ```
+
+4. **Run the development server**
 
    ```bash
    npm run dev
@@ -126,7 +145,7 @@ src/
    pnpm dev
    ```
 
-4. **Open your browser**
+5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 🧪 Testing
